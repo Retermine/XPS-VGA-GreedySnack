@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="bootloop" key="Snake_New_hw_platform-microblaze_0-initElf"/>
+	<item value="system.bit" key="Snake_New_hw_platform-bitFile"/>
+	<item value="system_bd.bmm" key="Snake_New_hw_platform-bmmFile"/>
+</section>

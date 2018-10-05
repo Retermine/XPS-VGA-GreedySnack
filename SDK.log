@@ -1,0 +1,181 @@
+11:15:43.718 INFO  - Processing command line option -hwspec C:\Users\soul_fire\Desktop\test\Snake_New\SDK\SDK_Export\hw\system.xml. 
+11:37:04.026 INFO  - Successfully generated C:\Users\soul_fire\Desktop\test\Snake_New\SDK\SDK_Export\Snake\src\lscript.ld. 
+11:37:04.026 INFO  - Applying linker script to all configurations of project Snake. 
+11:37:04.026 INFO  - Setting rebuild state to true for all configurations of project Snake. 
+14:01:41.980 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+14:07:57.702 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+14:10:43.603 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+14:13:50.208 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+14:41:13.857 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+14:43:15.888 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+14:46:09.954 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+14:47:11.656 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+14:47:31.116 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+14:48:47.911 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+14:49:38.084 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+15:03:29.383 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+15:10:33.517 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+15:12:59.939 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+15:14:44.379 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+15:16:24.292 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+15:17:06.201 INFO  - FPGA configured successfully with bitstream "C:/Users/soul_fire/Desktop/test/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+16:19:15.384 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:38:58.469 INFO  - Processing command line option -hwspec G:\Snake_New\SDK\SDK_Export\hw\system.xml. 
+10:17:15.723 INFO  - Processing command line option -hwspec G:\Snake_New\SDK\SDK_Export\hw\system.xml. 
+11:13:04.462 INFO  - Processing command line option -hwspec C:\Users\sti\Desktop\Snake_New\SDK\SDK_Export\hw\system.xml. 
+11:16:57.445 INFO  - Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup 
+11:16:57.475 ERROR - Timeout occured while waiting to get reply for command "xfpga  -f C:/Users/sti/Desktop/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit -report_progress" 
+11:16:57.677 ERROR - FPGA Configuration failed. 
+11:18:36.471 INFO  - FPGA configured successfully with bitstream "C:/Users/sti/Desktop/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+11:19:41.626 INFO  - FPGA configured successfully with bitstream "C:/Users/sti/Desktop/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+11:24:59.621 INFO  - FPGA configured successfully with bitstream "C:/Users/sti/Desktop/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+11:25:51.325 INFO  - FPGA configured successfully with bitstream "C:/Users/sti/Desktop/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+11:26:42.368 INFO  - FPGA configured successfully with bitstream "C:/Users/sti/Desktop/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+11:27:14.906 INFO  - FPGA configured successfully with bitstream "C:/Users/sti/Desktop/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+11:28:43.292 INFO  - FPGA configured successfully with bitstream "C:/Users/sti/Desktop/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+11:30:44.124 INFO  - FPGA configured successfully with bitstream "C:/Users/sti/Desktop/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+11:33:39.489 INFO  - FPGA configured successfully with bitstream "C:/Users/sti/Desktop/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+11:34:18.150 INFO  - FPGA configured successfully with bitstream "C:/Users/sti/Desktop/Snake_New/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+11:37:41.917 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+12:29:06.780 INFO  - Processing command line option -hwspec H:\tanchishe\SDK\SDK_Export\hw\system.xml. 
+16:00:40.728 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+16:05:56.814 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+16:07:00.843 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+16:08:07.345 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+16:18:39.117 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+16:22:24.538 ERROR - Unexpected error while fetching XMD's response:  java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+
+16:22:24.541 ERROR - Zero sized response read from XMD. This indicates a communication error or a programming error. 
+16:43:33.651 WARN  - Unable to obtain port 2350 for use by XMD, java.net.BindException: Address already in use: JVM_Bind 
+16:44:17.944 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+16:47:09.819 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+16:53:15.501 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+16:56:56.430 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+17:06:59.005 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+18:06:50.953 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+18:09:35.715 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+18:18:16.494 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+18:19:04.200 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+18:31:37.512 WARN  - Unable to obtain port 2350 for use by XMD, java.net.BindException: Address already in use: JVM_Bind 
+18:32:23.000 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+18:34:01.204 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+18:45:47.181 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+18:46:20.142 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+18:48:04.516 WARN  - Unable to obtain port 2350 for use by XMD, java.net.BindException: Address already in use: JVM_Bind 
+18:48:47.286 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:02:16.776 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:04:55.108 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:05:54.722 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:08:53.038 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:12:16.612 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:13:37.941 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:18:12.688 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:26:41.158 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:28:40.160 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:33:33.372 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:35:52.650 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:39:03.734 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:42:01.285 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:49:01.585 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:57:54.066 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+20:01:31.665 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+20:23:18.532 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+20:24:08.233 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+20:28:19.461 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+20:35:38.427 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+20:38:31.897 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:33:59.174 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+09:34:27.716 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+10:06:24.417 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+10:42:46.417 INFO  - FPGA configured successfully with bitstream "D:/lab/tanchishe/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+12:04:02.274 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+23:42:32.241 INFO  - FPGA configured successfully with bitstream "C:/Users/Administrator/Desktop/greedysnake/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+23:43:03.012 ERROR - Unexpected error while fetching XMD's response:  java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+
+23:43:03.012 ERROR - Zero sized response read from XMD. This indicates a communication error or a programming error. 
+23:49:57.379 INFO  - FPGA configured successfully with bitstream "C:/Users/Administrator/Desktop/greedysnake/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+23:56:40.404 INFO  - FPGA configured successfully with bitstream "C:/Users/Administrator/Desktop/greedysnake/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+23:58:01.397 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+00:03:12.163 INFO  - FPGA configured successfully with bitstream "C:/Users/H/Desktop/greedysnake/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+00:04:39.736 INFO  - FPGA configured successfully with bitstream "C:/Users/H/Desktop/greedysnake/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+00:06:10.212 INFO  - FPGA configured successfully with bitstream "C:/Users/H/Desktop/greedysnake/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+00:07:55.116 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+00:09:00.379 INFO  - FPGA configured successfully with bitstream "C:/Users/H/Desktop/greedysnake/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+00:20:35.413 INFO  - FPGA configured successfully with bitstream "C:/Users/H/Desktop/greedysnake/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+01:05:11.341 INFO  - FPGA configured successfully with bitstream "C:/Users/H/Desktop/greedysnake/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+01:06:18.717 INFO  - FPGA configured successfully with bitstream "C:/Users/H/Desktop/greedysnake/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+01:09:38.422 INFO  - FPGA configured successfully with bitstream "C:/Users/H/Desktop/greedysnake/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+01:38:43.526 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+22:34:23.758 INFO  - Processing command line option -hwspec C:\Users\dell\Downloads\gs\SDK\SDK_Export\hw\system.xml. 
+21:01:57.366 INFO  - FPGA configured successfully with bitstream "C:/Users/dell/Downloads/gs/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+21:10:16.918 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:16:22.974 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:18:08.096 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:19:45.521 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:20:28.474 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:21:44.158 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:25:00.268 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:26:31.394 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:27:47.439 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:34:16.429 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:35:18.753 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:36:12.519 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:38:52.784 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:41:21.190 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:42:32.847 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:43:20.005 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:46:05.124 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:52:33.096 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:53:35.283 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:55:03.467 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:55:31.380 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:56:06.565 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+21:56:32.781 ERROR - Unable to disconnect from existing targets java.lang.NullPointerException
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess.issueCommand(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(Unknown Source)
+
+21:56:32.797 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+16:37:22.665 INFO  - Settings changed on project spi_bootloader_bsp. Triggering a rebuild... 
+16:37:23.149 INFO  - Refreshed build settings on project spi_bootloader 
+17:25:54.178 INFO  - Successfully generated E:\Verilog\_ISE\GreedySnack_final\gs\SDK\SDK_Export\mysnack\src\lscript.ld. 
+17:25:54.178 INFO  - Applying linker script to configuration Debug of project mysnack. 
+17:25:54.178 INFO  - Setting rebuild state to true for configuration 'Debug' of project mysnack. 
+17:26:12.952 INFO  - FPGA configured successfully with bitstream "E:/Verilog/_ISE/GreedySnack_final/gs/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+17:26:52.897 INFO  - FPGA configured successfully with bitstream "E:/Verilog/_ISE/GreedySnack_final/gs/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+17:27:03.943 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to connect to the Xilinx hw_server. Check if
+     1. the hw_server is running and correct TCP port is used
+     2. the board is powered on and JTAG cable is connected.
+ 
+17:36:20.814 INFO  - Successfully generated E:\Verilog\_ISE\GreedySnack_final\gs\SDK\SDK_Export\mysnack\src\lscript.ld. 
+17:36:20.814 INFO  - Applying linker script to all configurations of project mysnack. 
+17:36:20.814 INFO  - Setting rebuild state to true for all configurations of project mysnack. 
+17:36:47.881 INFO  - Successfully generated E:\Verilog\_ISE\GreedySnack_final\gs\SDK\SDK_Export\mysnack\src\lscript.ld. 
+17:36:47.881 INFO  - Applying linker script to configuration Debug of project mysnack. 
+17:36:47.881 INFO  - Setting rebuild state to true for configuration 'Debug' of project mysnack. 
+17:46:46.012 INFO  - FPGA configured successfully with bitstream "E:/Verilog/_ISE/GreedySnack_final/gs/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+18:38:10.514 INFO  - FPGA configured successfully with bitstream "E:/Verilog/_ISE/GreedySnack_final/gs/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+18:45:37.390 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:54:05.423 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:54:16.339 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+18:54:32.659 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+19:00:07.982 INFO  - FPGA configured successfully with bitstream "E:/Verilog/_ISE/GreedySnack_final/gs/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:21:21.258 INFO  - FPGA configured successfully with bitstream "E:/Verilog/_ISE/GreedySnack_final/gs/SDK/SDK_Export/Snake_New_hw_platform/download.bit" 
+19:26:30.357 INFO  - FPGA Cable Disconnected. All active launches will be terminated. 
+19:33:05.908 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+19:33:06.050 ERROR - Error while obtaining Hardware Platform Session Property org.eclipse.core.internal.resources.ResourceException: Resource '/Snake_New_hw_platform' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+

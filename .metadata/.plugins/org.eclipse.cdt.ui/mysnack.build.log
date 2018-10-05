@@ -1,0 +1,6 @@
+19:21:23 **** Incremental Build of configuration Debug for project mysnack ****
+make all 
+make: Nothing to be done for `all'.
+
+19:21:23 Build Finished (took 145ms)
+

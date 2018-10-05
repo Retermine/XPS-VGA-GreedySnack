@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;mysnack/src/gameover.h&apos; to &apos;start&apos;" description="Rename resource &apos;gameover.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/gameover.h" name="start" stamp="1528895563926" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;mysnack/src/start&apos; to &apos;start.h&apos;" description="Rename resource &apos;start&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/start" name="start.h" stamp="1528895774636" updateReferences="true"/>
+</session>

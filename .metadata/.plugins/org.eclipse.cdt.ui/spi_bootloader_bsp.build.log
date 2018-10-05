@@ -1,0 +1,30 @@
+17:26:13 **** Auto Build of project spi_bootloader_bsp ****
+make -k all 
+libgen -hw ../Snake_New_hw_platform/system.xml\
+	       \
+	       -pe microblaze_0 \
+	       -log libgen.log \
+	       system.mss
+libgen
+Xilinx EDK 14.7 Build EDK_P.20131013
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+Command Line: libgen -hw ../Snake_New_hw_platform/system.xml -pe microblaze_0
+-log libgen.log system.mss 
+
+
+Staging source files.
+Running DRCs.
+Running DRC for XilIsf library... 
+
+
+
+ERROR:EDK - xilisf () - No SPI core is addressable from processor microblaze_0. 
+   XilIsf library requires a SPI Core 
+
+ERROR:EDK:3414 - Error(s) while running DRCs.
+make: *** [microblaze_0/lib/libxil.a] 错误 2
+make: 由于错误目标“all”并未重新创建。
+
+17:26:15 Build Finished (took 1s.989ms)
+

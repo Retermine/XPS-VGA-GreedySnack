@@ -1,0 +1,11 @@
+17:26:16 **** Auto Build of configuration Debug for project spi_bootloader ****
+make all 
+'Building file: ../src/platform.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../spi_bootloader_bsp/microblaze_0/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v8.50.c -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+../src/platform.c:1:25: fatal error: xparameters.h: No such file or directory
+compilation terminated.
+make: *** [src/platform.o] ´íÎó 1
+
+17:26:16 Build Finished (took 297ms)
+
